@@ -1,11 +1,38 @@
 {
-  "EREN": "Eren Xiters Premium - OB54",
-  "INSANE": "Insane Xiters Premium",
-  "SALZ": "Eren Xiters Premium Panel",
-  "B4EVER": "B4ever Premium Panel - OB54",
-  "CYBER": "Aethal Cheats Premium",
-  "NOCTIS": "Noctis Xiters Premium",
-  "MATADOR": "Matador Xiters Premium - OB54",
-  "AIM": "Eren Xiters - OB54 (Aimbot Only)",
-  "SNIPER": "Eren Xiters - OB54 (Sniper Only)"
+  "EREN": {
+    "free": "Eren Xiters Free Panel - OB54",
+    "premium": "Eren Xiters Premium - OB54"
+  },
+  "INSANE": {
+    "free": "Insane Xiters Free Panel",
+    "premium": "Insane Xiters Premium"
+  },
+  "SALZ": {
+    "free": "Eren Xiters Free Panel",
+    "premium": "Eren Xiters Premium Panel"
+  },
+  "B4EVER": {
+    "free": "B4ever Free Panel - OB54",
+    "premium": "B4ever Premium Panel - OB54"
+  },
+  "CYBER": {
+    "free": "Cyber Free Panel",
+    "premium": "Cyber Xiters Premium"
+  },
+  "NOCTIS": {
+    "free": "Noctis Xiters Free Panel",
+    "premium": "Noctis Xiters Premium"
+  },
+  "MATADOR": {
+    "free": "Matador Free Panel - OB54",
+    "premium": "Matador Xiters Premium - OB54"
+  },
+  "AIM": {
+    "free": "Eren Xiters Aimbot",
+    "premium": "Eren Xiters - OB54 (Aimbot Only)"
+  },
+  "SNIPER": {
+    "free": "Eren Xiters Sniper",
+    "premium": "Eren Xiters - OB54 (Sniper Only)"
+  }
 }
