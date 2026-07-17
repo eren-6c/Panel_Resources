@@ -19,20 +19,8 @@
     "free": "Aethal Free Panel",
     "premium": "Aethal Xiters Premium"
   },
-  "NOCTIS": {
-    "free": "Noctis Xiters Free Panel",
-    "premium": "Noctis Xiters Premium"
-  },
   "MATADOR": {
     "free": "Matador Free Panel - OB54",
     "premium": "Matador Xiters Premium - OB54"
-  },
-  "AIM": {
-    "free": "Eren Xiters Aimbot",
-    "premium": "Eren Xiters - OB54 (Aimbot Only)"
-  },
-  "SNIPER": {
-    "free": "Eren Xiters Sniper",
-    "premium": "Eren Xiters - OB54 (Sniper Only)"
   }
 }
