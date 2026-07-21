@@ -1,5 +1,5 @@
 {
-    "OnlineFetchDLLInjection": "false",
+    "OnlineFetchDLLInjection": "true",
     "Panel_Status": "true",
     "Unversal_Message": "Welcome back user !"
 }
